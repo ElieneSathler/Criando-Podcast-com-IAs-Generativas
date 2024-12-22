@@ -1,0 +1,124 @@
+
+DIO - Code The Future 🔴 LIVE CODE
+
+Projeto Podcast Gerado por I.A.s
+
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
+
+💻 Tecnologias utilizadas no projeto
+ChatGPT
+MidJourney
+ElevenLabs
+Capcut
+
+✨ Como foi feito ?
+Roteiro gerado via chatgpt
+Audio gerado pela elevenLabs
+Midjourney Para gerar capas
+Capcut para tratar aúdio e adicionar sons de fundo
+
+PROMPTS
+
+ROTEIRISTA
+
+1) NOME DO PODCAST
+
+você é um roteirista de podcast e vamos criar um podcast sobre processamento de cartões
+de débito e crédito e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes
+criativos para podcast de processamento de cartões, feito por mulheres, e que tenha
+algum trocadilho com mulheres empoderadas no nome. regras: nome êxito, ter nome e
+subtitulo. k nome deve conter palavra forte que remeta a processamento de cartões. não
+quero nome que contenha palavras em inglês
+
+CHATGPT
+1. Cartão de Ouro: Mulheres no Controle
+
+ Subtítulo: &quot;Desvendando o mundo dos pagamentos com poder e
+precisão&quot;
+
+2. Poder do Chip: Elas no Comando
+
+ Subtítulo: &quot;Histórias e insights sobre o processamento de cartões&quot;
+
+3. Transações Poderosas: Mulheres que Fazem Acontecer
+
+ Subtítulo: &quot;O universo dos cartões de débito e crédito sob uma nova
+perspectiva&quot;
+
+4. Código Rosa: Liderança no Processamento de Cartões
+ Subtítulo: &quot;Empoderamento feminino no setor financeiro&quot;
+5. Autorizadas: Mulheres que Transformam Pagamentos
+
+ Subtítulo: &quot;Explorando o impacto feminino no processamento de
+cartões&quot;
+
+2) CAPA PODCAST
+
+**Prompt:**
+&quot;Create a vibrant and eye-catching podcast cover, with the title
+&#39;Powerful Transactions: Women Who Make It Happen&#39; prominently,
+using modern, impactful typography. The subtitle &#39;The Universe of
+Debit and Credit Cards From a New Perspective&#39; should be included
+legibly, in a complementary font. Art should depict diverse,
+confident and empowered women interacting with debit and credit
+cards in an urban, modern environment, symbolizing female financial
+strength. bold and energizing color palette incorporating finance-
+related graphic elements such as charts, currencies and financial
+technology. The style should be contemporary and inspiring,
+capturing the essence of female empowerment in the world of
+finance.”
+
+CHATGPT + MIDJOURNEY
+
+3) ROTEIRO PODCAST
+
+**Prompt:**
+Você é um roteirista de podcast e vamos criar um roteiro de um podcast de sobre
+processamento de cartões de débito e crédito com público alvo de empregados em
+uma centralizadora de cartões de um banco Emissor
+O formato do roteiro deve ter:
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+[REGRAS]
+
+- No bloco [INTRODUÇÃO] substituta por uma introdução iguais as introduções dos
+vídeos do canal Sicoob Coompemg como se fosse escrito por José Paulo da
+Cecremge
+- No bloco [CURIOSIDADE 1] substituta por uma curiosidade sobre cartões de débito
+- No bloco [CURIOSIDADE 2] substitua por uma curiosidade sobre cartões de crédito
+- No bloco [FINALIZAÇÃO] substitua por uma breve despedida com o final &quot;Eu sou
+Eliene e esse foi o Projeto Bootcamp dessa semana&quot;
+- Use termos de fácil explicação
+- O Podcast será apresentado por somente uma pessoa chamada Eliene
+- O Podcast deve ser curto
+[REGRAS NEGATIVAS]
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+CHATGPT
+
+[INTRODUÇÃO]
+Olá, pessoal! Sejam todos muito bem-vindos ao nosso podcast! Hoje vamos falar sobre um
+tema muito importante para todos nós que trabalhamos na centralizadora de cartões de
+um banco emissor. Vamos explorar o fascinante mundo do processamento de cartões de
+débito e crédito. Eu sou Eliene e estou muito feliz em ter vocês aqui comigo!
+[CURIOSIDADE 1]
+Você sabia que os cartões de débito foram introduzidos pela primeira vez na década de
+1960? Eles foram criados para facilitar as transações diárias, permitindo que os clientes
+acessassem diretamente os fundos em suas contas bancárias. Hoje, os cartões de débito
+são uma ferramenta essencial para milhões de pessoas ao redor do mundo, oferecendo
+conveniência e segurança nas compras do dia a dia.
+[CURIOSIDADE 2]
+Já os cartões de crédito têm uma história um pouco diferente. Eles surgiram na década de
+1950 e rapidamente se tornaram populares por oferecerem uma linha de crédito rotativo.
+Isso significa que os clientes podem fazer compras e pagar o saldo ao longo do tempo, em
+vez de imediatamente. Além disso, muitos cartões de crédito oferecem recompensas,
+como pontos ou milhas, tornando-se uma opção atraente para muitos consumidores.
+[FINALIZAÇÃO]
+E por hoje é só, pessoal! Espero que tenham gostado de aprender um pouco mais sobre o
+processamento de cartões de débito e crédito. Eu sou Eliene e esse foi o Projeto
+Bootcamp dessa semana. Até a próxima!
